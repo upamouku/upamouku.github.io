@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upamouku.github.io/IjS/sitemap_index.txt
+Sitemap: https://upamouku.github.io/LOE/sitemap_index.txt
+Sitemap: https://upamouku.github.io/ZKg/sitemap_index.txt
+Sitemap: https://upamouku.github.io/fYu/sitemap_index.txt
